@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aroxv0
+- 👋 Hi, I’m Anshul Rohilla
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data analysis projects.
